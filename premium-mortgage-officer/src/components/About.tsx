@@ -41,7 +41,7 @@ export const About = () => {
               </div>
               <div>
                 <span className="block text-3xl font-serif font-bold text-slate-900">Top 1%</span>
-                <span className="text-sm text-slate-500">Originator in WA</span>
+                <span className="text-sm text-slate-500">Originator in OK</span>
               </div>
             </div>
           </div>
